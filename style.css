@@ -5,3 +5,17 @@
     min-height:  30vh;
     background-size: cover;
 }
+
+.background{
+    background-image: url();
+    min-height: ;
+    background-size: cover;
+    position: relative;
+}
+
+.card-spill{
+position: absolute;
+bottom: 0;
+transform: translateY(50%);
+}
+
