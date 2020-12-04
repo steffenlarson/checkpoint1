@@ -6,9 +6,8 @@
     background-size: cover;
 }
 
-.background{
-    background-image: url();
-    min-height: ;
+.tbackground{
+    min-height: 30vh;
     background-size: cover;
     position: relative;
 }
