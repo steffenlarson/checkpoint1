@@ -22,3 +22,7 @@ transform: translateY(25%);
     font-family: 'Syne Mono', monospace;
 }
 
+.csize{
+    min-width: 10em;
+    min-height: 5em;
+}
